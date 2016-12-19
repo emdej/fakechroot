@@ -143,6 +143,8 @@ libfakechroot_la_SOURCES = \
     setenv.c \
     setenv.h \
     setxattr.c \
+    shm_open.c \
+    shm_unlink.c \
     stat.c \
     stat.h \
     stat64.c \
